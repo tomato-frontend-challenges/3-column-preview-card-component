@@ -1,0 +1,17 @@
+:root {
+  --card-radius: 10px;
+
+  /* Primary */
+  --color-bright-orange: hsl(31, 77%, 52%);
+  --color-dark-cyan: hsl(184, 100%, 22%);
+  --color-very-dark-cyan: hsl(179, 100%, 13%);
+
+  /* Secondary */
+  --color-transparent-white: hsla(0, 0%, 100%, 0.75);
+  --color-very-light-gray: hsl(0, 0%, 95%);
+  
+  /* Fonts */
+  --font-big-shoulders-display: "Big Shoulders Display", sans-serif;
+  --font-lexend-deca: "Lexend Deca", sans-serif;
+  --font-size: 15;
+}
