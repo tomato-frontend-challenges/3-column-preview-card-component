@@ -58,13 +58,14 @@
   font-weight: 400;
   font-size: 15px;
 
-  overflow: scroll;
+  overflow-y: auto;
+  overflow-x: hidden;
 
   color: var(--color-transparent-white);
 }
 
 .cards__button {
-  border: 2px;
+  border: 2px solid var(--color-very-light-gray);
   border-radius: 50px;
 
   position: absolute;
@@ -72,6 +73,7 @@
 
   padding: 15px 30px 15px 30px;
 
+  background-color: var(--color-very-light-gray);
   font-family: var(--font-lexend-deca);
 }
 
@@ -85,6 +87,19 @@
 
 .cards__button--very-dark-cyan {
   color: var(--color-very-dark-cyan);
+}
+
+.cards__button:active {
+  animation-duration: 100ms;
+  animation-name: cardButtonHover;
+  animation-fill-mode: forwards;
+}
+
+@keyframes cardButtonHover {
+  to {
+    background-color: transparent;
+    color: var(--color-very-light-gray);
+  }
 }
 
 @media (min-width: 376px) {
