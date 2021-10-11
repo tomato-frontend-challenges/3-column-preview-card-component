@@ -28,14 +28,15 @@ Users should be able to:
 
 Mobile
 
-![](./screenshots/screenshot-mobile.png)
+![screenshot-mobile](https://user-images.githubusercontent.com/24487667/136717351-66cc6f9a-f4cc-43b6-a73a-a5b13f4fbf0e.png)
 
 Desktop
 
-![](./screenshots/screenshot-desktop.png)
+![screenshot-desktop](https://user-images.githubusercontent.com/24487667/136717358-c655b660-feed-4788-9058-f9972410c8c5.png)
 
 ### Links
 
+- Solution URL: [Link](https://github.com/tomato-frontend-challenges/3-column-preview-card-component)
 - Live Site URL: [Link](https://frontend-mentors-3-column-preview-card-component.vercel.app/o)
 
 ## My process
