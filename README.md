@@ -58,7 +58,7 @@ One particular unrelated challenge I had during development, was that I had to w
 
 ### Useful resources
 
-- [7-1 Sass Architecture](https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/7-1-sass-architecture) - Although I didn't use SCSS in this particular challenge, I guided myself of the 7-1 architecture to organize my CSS files.
+- [7-1 Sass Architecture](https://sass-guidelin.es/#architecture) - Although I didn't use SCSS in this particular challenge, I guided myself of the 7-1 architecture to organize my CSS files.
 
 ## Author
 
