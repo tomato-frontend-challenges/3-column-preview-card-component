@@ -43,7 +43,7 @@
 
   font-family: var(--font-big-shoulders-display);
   font-weight: 700;
-  font-size: 40px;
+  font-size: 2.5rem;
 
   color: var(--color-very-light-gray);
 }
@@ -56,7 +56,7 @@
   font-family: var(--font-lexend-deca);
   line-height: 24px;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 0.9375rem;
 
   overflow-y: auto;
   overflow-x: hidden;
