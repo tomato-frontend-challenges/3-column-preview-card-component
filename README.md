@@ -47,6 +47,7 @@ Desktop
 - Flexbox
 - Mobile-first workflow
 - BEM Methodology
+- CSS Animations
 
 ### Continued development
 
