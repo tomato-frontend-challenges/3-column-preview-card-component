@@ -10,7 +10,7 @@
   position: relative;
 
   height: 442px;
-  max-width: 326px;
+  max-width: 238px;
   margin: 0;
   padding: 0 40px 0 48px;
 }
@@ -102,14 +102,13 @@
   }
 }
 
-@media (min-width: 376px) {
+@media (min-width: 675px) {
   .cards {
     flex-direction: row;
   }
 
   .cards__card {
-    min-width: 200px;
-    max-width: 230px;
+    max-width: 238px;
   }
 
   .cards__card:first-child {

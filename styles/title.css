@@ -1,4 +1,6 @@
 .title {
   font-family: var(--font-big-shoulders-display);
   color: var(--color-very-dark-cyan);
+  margin: 20px;
+  text-align: center;
 }
