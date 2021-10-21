@@ -37,7 +37,7 @@ Desktop
 ### Links
 
 - Solution URL: [Link](https://github.com/tomato-frontend-challenges/3-column-preview-card-component)
-- Live Site URL: [Link](https://frontend-mentors-3-column-preview-card-component.vercel.app/)
+- Live Site URL: [Link](https://tomato-3-column-preview-card.netlify.app/)
 
 ## My process
 
